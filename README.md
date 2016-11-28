@@ -1,2 +1,2 @@
 # hello_world
-a test to learn new repository
+the test to learn new repository
